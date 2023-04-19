@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.footer-container {
+  background-color: #64748b;
+  height: 100px;
+  width: 850px;
+  padding: 10px;
+  margin: 25px;
+}
+.footer {
+  color: #475569;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  font-family: 'Roboto';
+  font-weight: 'Roboto';
+}
